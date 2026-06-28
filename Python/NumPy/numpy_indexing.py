@@ -3,7 +3,7 @@ NumPy Indexing Practice
 
 Author: Mobina Shokouhi
 Topic: NumPy Indexing
-Date: 2026-06-29
+Date: 2026-06-28
 """
 
 import numpy as np
